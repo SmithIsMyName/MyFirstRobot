@@ -18,3 +18,6 @@ L293D Quadruple half-h driver setup for bipolar control:
 HC-SR04 Ultrasonic Module
 	Echo:				PC5
 	Trig:				PC4
+
+Video at:
+https://youtu.be/oiwDPC5ezAc
