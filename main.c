@@ -1,5 +1,5 @@
 /*
- *      Author: Charles Minchau
+ * 
  *
  *		Living room obstacle avoiding robot
  *
